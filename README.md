@@ -7,7 +7,7 @@
 Se avete una GPU Nvidia:
 
 ```
-conda crete -n xpug python=3.6 jupyter notebook tensorflow-gpu
+conda create -n xpug python=3.6 jupyter notebook tensorflow-gpu
 ```
 
 Se non avete una GPU Nvidia:
