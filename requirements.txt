@@ -4,5 +4,5 @@
 jupyter
 notebook
 numpy==1.14.1
-python>=3.6
+python==3.6
 tensorflow
