@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/acbellini/tensorflow_demo/master)
 # Demo per XPUG Bologna - 13 Marzo 2017
 
 1. Installare Anaconda per python 3.6 da qui: https://www.anaconda.com/download/#linux
